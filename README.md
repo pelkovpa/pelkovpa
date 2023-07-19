@@ -1,6 +1,5 @@
 - Hi, I’m Pelkov Petr
-- I’m currently learning Python
-- How to reach me: +7 951 488 29 85, https://t.me/pelkovpa, pelkovpa@mail.ru  
+- How to reach me: https://t.me/pelkovpa
 <!---
 pelkovpa/pelkovpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
